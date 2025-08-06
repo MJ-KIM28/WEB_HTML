@@ -1,0 +1,35 @@
+25.8.6.수요일 
+
+콜백함수 - 이런 상황이 발생하면 나타나 하고 설정해둠 EX) 트리거 
+. 찍어서 접근한다.
+this키워드 
+
+DOM(문서객체모델)
+- HTML 문서를 자바스크립트로 제어할 수 있게 해주는 구조
+
+문서 객체- 태그를 자바스크립트에서 사용할 수 있는 객체로 만든 것
+이벤트 - 터치, 드래그 등 사용자가 발생시키는 동작들 
+이벤트를 통해 DOM을 접근,변화,제어 등 수행 
+
+<title>Hello</title>
+<title>은 요소노드 HELLO는 텍스트노드
+
+요소노드1 : HTML
+    ┃ 요소노드2 : head
+    ┃	요소노드3 : title
+    ┃	    텍스트노드 : Hello
+    ㄴ  body
+
+ex) getAttribute Attribute를 get 해 온다..
+
+내장함수= 빌트인함수 
+자바스크립트는 class 개념이 없음 
+------------------------------------------
+톰캣서버에 WebApp03 프로젝트를 추가 함 
+WebConnect 폴더 JS생성 마오 -자바스크립트 폴더- 자바스크립트 소스 파일 선택 - jsTest.js 파일 작성
+
+window-Preferences-javascript-code style-Formatter-New-이름 : jsStandard - ok - braces 를 nextline 으로 하고 나머지 마지막 하나는 원래대로 후 저장
+-------------------------------------------
+ 
+
+
